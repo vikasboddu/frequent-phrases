@@ -1,0 +1,17 @@
+{
+  "name": "frequent_phrases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frequent_phrases.js",
+  "scripts": {
+    "test": "mocha"
+giggg
+  },
+  "author": "vikasboddu",
+  "license": "ISC",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "mocha": "^5.2.0",
+    "n-gram": "^1.1.0"
+  }
+}

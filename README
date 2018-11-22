@@ -1,0 +1,3 @@
+'brew install node' will install Node.JS on Macs with Homebrew
+'npm install' will download the 2 dependencies and testing framework
+'npm test' will run the tests
